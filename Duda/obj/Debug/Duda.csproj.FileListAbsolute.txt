@@ -1,0 +1,13 @@
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Duda\Duda\bin\Debug\Duda.exe.config
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Duda\Duda\bin\Debug\Duda.exe
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Duda\Duda\bin\Debug\Duda.pdb
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Duda\Duda\obj\Debug\Duda.csprojResolveAssemblyReference.cache
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Duda\Duda\obj\Debug\Duda.Form1.resources
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Duda\Duda\obj\Debug\Duda.Properties.Resources.resources
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Duda\Duda\obj\Debug\Duda.csproj.GenerateResource.Cache
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Duda\Duda\obj\Debug\Duda.exe
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Duda\Duda\obj\Debug\Duda.pdb
+D:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Duda\Duda\bin\Debug\Duda.exe.config
+D:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Duda\Duda\obj\Debug\Duda.exe
+D:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Duda\Duda\obj\Debug\Duda.pdb
+D:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Duda\Duda\bin\Debug\Puntos.exe.config
